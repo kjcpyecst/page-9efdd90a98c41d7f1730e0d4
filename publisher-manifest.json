@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6b9606c651b45b07a46c544f",
+  "owner": "kjcpyecst",
+  "repo": "page-9efdd90a98c41d7f1730e0d4",
+  "title": "ARK",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9efdd90a98c41d7f1730e0d4",
+      "a": "ARK",
+      "b": "2027最新官网",
+      "entity": "ARK",
+      "brand": "ARK",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d1a50a1cf3ff5322e767c84c0e0da7346520e072aba5461eb0f0f2f60aee78aa",
+      "content": {
+        "primary_entity": "ARK",
+        "keyword1": "ARK",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三种订阅选择，按流量与设备数量区分使用场景。基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备并配有IPLC专线；团队版每月1000GB、支持20台设备。用户可根据主力设备数量与流媒体、游戏加速需求匹配套餐。",
+          "AI_HERO_SUBTITLE": "ARK 加速器订阅与设备选择",
+          "AI_HERO_INTRO": "ARK 是面向跨境网络访问的海外加速器，提供按月与按年订阅方案，覆盖个人到团队的多设备使用场景。基础版、旗舰版、团队版在流量、在线设备数和线路质量上各有侧重，用户可依据日常设备数量与用途选择合适的套餐。",
+          "AI_VISUAL_TITLE": "ARK 加速器套餐概览",
+          "AI_HIGHLIGHT_1": "按月与按年灵活订阅",
+          "AI_HIGHLIGHT_2": "多设备在线数分档配置",
+          "AI_HIGHLIGHT_3": "流媒体与游戏线路优化",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度选择 ARK 订阅。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按每月用量选择。",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台同时在线，匹配个人或小组设备。",
+          "AI_FEATURE_TITLE_3": "线路差异",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，团队版为 VIP 高带宽节点，按游戏或大流量场景选用。",
+          "AI_CLIENTS_TITLE": "设备客户端",
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，再依客户端文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路上递进，按年付分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先选套餐，再核对设备适配，最后依客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据每月流量与在线设备数量，在基础版、旗舰版和团队版之间选定订阅。",
+          "AI_STEP_TITLE_2": "核对设备",
+          "AI_STEP_TEXT_2": "确认常用设备系统，查看对应客户端的最低版本与配置要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅信息，完成节点选择与连接测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再连接",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求选定 ARK 套餐，依客户端文档完成订阅配置即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、月流量 100GB 以内的轻度使用；旗舰版适合 5 台设备、每月 300GB 且需要 IPLC 专线游戏加速；团队版面向 20 台设备、1000GB 及企业定制路由。",
+          "AI_FAQ_ANSWER_2": "在 Clash Verge、V2RayN、Shadowrocket 等客户端中粘贴订阅链接即可导入，随后选择节点并启用系统代理。不同客户端的导入入口名称略有差异，可参照对应客户端文档。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。多设备同时使用时，建议按常用设备数量选择，超出设备上限会导致无法连接。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于每月分别约为 12.5 元、29 元与 70.8 元。",
+          "AI_FAQ_ANSWER_5": "旗舰版具备全节点原生流媒体解锁与 IPLC 专线游戏加速优化，并含 7×24 优先工单支持；团队版提供 VIP 专属高带宽节点与企业定制路由，按需求选择即可。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版分别适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "拿到订阅后如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同一时间可以几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "年付和月付的价格差多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版相比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nnhfqfx.cn",
+    "host": "nnhfqfx.cn"
+  },
+  "file_hashes": {
+    "index.html": "9095ad863306b7aeabf4f926d5df05f313068f71dc18d1c86b5e359a1b6f25c2",
+    "sitemap.xml": "06096bb6677e8875643859b9ae8a7dc79586ff5a6b17830f53428fc54bcb774d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e84b34f5499ac12fb6756ccce85b4a01ea1a2608afd94cfa08ebc29e928e2a7a",
+    "robots.txt": "a622da6fe47aac9b9feb557d5c017d10904265a4b20978d5ebd4f1024073ac97",
+    "43c2f04ae194aacdd1ea5023f23184d1.txt": "123bdcdf170472ee115a149119dfc0de03a1ccf87d0b30913d1fdd63294a3c47"
+  },
+  "revision": "52b91373329ab82f5cb28360a8ecb26c9f55128572bd347d8bea85bc017888d5"
+}

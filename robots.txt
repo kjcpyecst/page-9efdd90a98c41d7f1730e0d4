@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nnhfqfx.cn/sitemap.xml
